@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [http://127.0.0.1:3000/Basics%20HTML%20&%20CSS/Blog%20Preview%20Card/blog-preview-card-main/index.html]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://birumj.github.io/Blog-Preview-Card---Frontend-Mentor/]
 
 ## My process
 
